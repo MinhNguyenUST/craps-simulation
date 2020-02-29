@@ -49,7 +49,7 @@ public class Die
 	
 	public static String  testStatic()
 	{
-		return "Die.testStatic";
+		return "Die.testStatic()";
 	}
 	
 }
